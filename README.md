@@ -1,4 +1,4 @@
-# HealthCareBot
+# HealthClinicBot
  
 **INTRODUCTION**
 ---

@@ -1,6 +1,6 @@
 # HealthCareBot
  
-**INTRODUCTION**
+__**INTRODUCTION**__
 
 Having quick and reliable access to information on medical facilities is essential in the healthcare sector. The goal of this project is to create an intuitive system that will enable users to search for and obtain data on healthcare facilities according to their location and facility type. In the current project, a web application built with Flask has been created to give users access to healthcare facility information. To manage user interactions and retrieve data from a preprocessed healthcare dataset, the application makes use of a ChatBot class. Additionally, it will provide important information like insurance acceptance, convenient hours, and emergency service availability. Our mission is to empower clients with the knowledge they need to make wise healthcare decisions. Our main goal is to empower our customers by making essential healthcare information more accessible to all. Beyond just giving people information, our mission encompasses our dedication to empowering people and giving them the knowledge they need to successfully navigate and make decisions in the complex world of healthcare services. One potential path forward for ongoing improvement and development is the incorporation of Language Model-based Learning (LLM) systems. Our ChatBot's capability can be enhanced beyond what it is now capable of by utilizing sophisticated language models, such as those driven by machine learning and natural language processing (NLP). 
 
@@ -28,7 +28,7 @@ Dataset Interaction: Based on input supplied by the user, the ChatBot queries an
 
 Response Generation: Based on user input, it presents appropriate healthcare facility details in response to user communications. 
 
-**3. Data Loading and Processing **
+3. Data Loading and Processing
 
 Dataset Source: An Excel file serves as the original source of the data. 
 

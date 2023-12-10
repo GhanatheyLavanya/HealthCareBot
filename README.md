@@ -74,6 +74,13 @@ Goal:
 
 "map.html": Based on user requests, this page shows information on healthcare facilities, possibly on a map interface. 
 
+**Pre-Processed Dataset**
+---
+
+(https://www.dropbox.com/scl/fi/b9oend7t9ui5dl1pvkre9/clean_healthCare_data.csv?rlkey=00cy6nq521dr98a4mxpg50da7&dl=0) 
+
+ 
+
 **Requirements**
 Python 3.x
 Windows
